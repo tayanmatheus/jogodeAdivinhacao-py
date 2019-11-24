@@ -1,3 +1,5 @@
+Sistema do jogo de adivinhação
+
 ```mermaid
 graph LR
 A[Computador] --> B(Pensa em um número entre 0 e 20)
